@@ -1,0 +1,10 @@
+total 36
+drwxr-x--- 5 areebahabib areebahabib 4096 Oct 16 06:51 .
+drwxr-xr-x 3 root        root        4096 Sep 17 13:41 ..
+-rw-r--r-- 1 areebahabib areebahabib  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 areebahabib areebahabib 3771 Feb 13  2026 .bashrc
+drwx------ 2 areebahabib areebahabib 4096 Sep 17 14:16 .cache
+-rw-rw-r-- 1 areebahabib areebahabib   62 Oct 16 06:48 .gitconfig
+-rw-r--r-- 1 areebahabib areebahabib  807 Feb 13  2026 .profile
+drwx------ 2 areebahabib areebahabib 4096 Oct 16 06:46 .ssh
+drwxrwxr-x 5 areebahabib areebahabib 4096 Oct 16 06:51 lab05-linux
